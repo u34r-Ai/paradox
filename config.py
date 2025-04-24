@@ -20,8 +20,8 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 # Exchange API Configuration
 EXCHANGE_NAME = os.getenv("EXCHANGE_NAME", "kucoin")
-API_KEY = os.getenv("API_KEY")
-API_SECRET = os.getenv("API_SECRET")
+API_KEY = os.getenv("API_KEY") or os.getenv("BINANCE_API_KEY") or os.getenv("KUCOIN_API_KEY")
+API_SECRET = os.getenv("API_SECRET") or os.getenv("BINANCE_API_SECRET") or os.getenv("KUCOIN_API_SECRET")
 
 # Proxy Configuration - for connecting from regions with restrictions
 HTTP_PROXY = os.getenv("HTTP_PROXY")
