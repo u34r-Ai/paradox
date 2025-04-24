@@ -1,0 +1,27 @@
+services:
+  # Main trading bot service
+  - type: web
+    name: crypto-trading-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT --reuse-port --reload main:app
+    repo: https://github.com/your-github-username/crypto-trading-bot  # Update with your actual repository
+    branch: main
+    autoDeploy: false  # Set to true if you want automatic deployments on push
+    healthCheckPath: /status
+    envVars:
+      - key: API_KEY
+        sync: false  # This will be manually set in the Render dashboard
+      - key: API_SECRET
+        sync: false  # This will be manually set in the Render dashboard
+      - key: TELEGRAM_TOKEN
+        sync: false  # This will be manually set in the Render dashboard
+      - key: TELEGRAM_CHAT_ID
+        sync: false  # This will be manually set in the Render dashboard
+      - key: HTTP_PROXY
+        sync: false  # Optional
+      - key: HTTPS_PROXY
+        sync: false  # Optional
+    schedule:
+      - cron: "*/5 * * * *"  # Run every 5 minutes to keep the service alive
+        command: "curl -s $RENDER_EXTERNAL_URL/ping > /dev/null"

@@ -1,0 +1,1442 @@
+2025-04-23 19:35:39,295 - config - INFO - Configuration validated successfully
+2025-04-23 19:35:39,386 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745436939309&recvWindow=60000&signature=7775196dccce849fc86dc825f838ebfb1144724613b08c0b9b2549dc2de49ed1 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:35:39,387 - app - ERROR - Error starting trading bot on startup: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745436939309&recvWindow=60000&signature=7775196dccce849fc86dc825f838ebfb1144724613b08c0b9b2549dc2de49ed1 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:36:15,594 - config - INFO - Configuration validated successfully
+2025-04-23 19:36:15,687 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745436975609&recvWindow=60000&signature=6f2d062703cda417e17f6d8e81415bb14b7840da69b28aaf28f8fa18dc6910b9 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:36:15,687 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745436975609&recvWindow=60000&signature=6f2d062703cda417e17f6d8e81415bb14b7840da69b28aaf28f8fa18dc6910b9 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:36:15,687 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:36:15,688 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:36:15,688 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:36:15,688 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:36:15,688 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:36:15,689 - exchange_api - ERROR - Exchange connection check failed: 'ExchangeAPI' object has no attribute 'exchange'
+2025-04-23 19:36:15,690 - trading_bot - ERROR - Cannot connect to exchange. Check API credentials and network.
+2025-04-23 19:36:16,338 - telegram_bot - INFO - Message sent to Telegram: ⚠️ Error
+
+Cannot connect to exchange. Check API cr...
+2025-04-23 19:36:16,339 - app - ERROR - Failed to start trading bot automatically
+2025-04-23 19:36:16,359 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:36:44,786 - config - INFO - Configuration validated successfully
+2025-04-23 19:36:44,843 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437004800&recvWindow=60000&signature=526ce123bf4979e50961f579323458814b19cbeecb8c8e55a67ea5622e5abd40 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:36:44,844 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437004800&recvWindow=60000&signature=526ce123bf4979e50961f579323458814b19cbeecb8c8e55a67ea5622e5abd40 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:36:44,844 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:36:44,844 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:36:44,844 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:36:44,845 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:36:44,845 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:36:44,845 - exchange_api - ERROR - Exchange connection check failed: 'ExchangeAPI' object has no attribute 'exchange'
+2025-04-23 19:36:44,845 - trading_bot - ERROR - Cannot connect to exchange. Check API credentials and network.
+2025-04-23 19:36:45,479 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:36:45,498 - telegram_bot - INFO - Message sent to Telegram: ⚠️ Error
+
+Cannot connect to exchange. Check API cr...
+2025-04-23 19:36:45,498 - app - ERROR - Failed to start trading bot automatically
+2025-04-23 19:36:51,834 - config - INFO - Configuration validated successfully
+2025-04-23 19:36:51,905 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437011846&recvWindow=60000&signature=58bf34d44762f4db05edfa03690fa1f1c45c98ca4727fa7306d964caa3438cda 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:36:51,905 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437011846&recvWindow=60000&signature=58bf34d44762f4db05edfa03690fa1f1c45c98ca4727fa7306d964caa3438cda 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:36:51,906 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:36:51,906 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:36:51,906 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:36:51,906 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:36:51,906 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:36:51,907 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:36:51,907 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:36:51,911 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:36:51,912 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:36:51,912 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:36:51,912 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:36:51,932 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 19:36:51,932 - trading_bot - ERROR - Error checking entry conditions: 'numpy.float64' object has no attribute 'iloc'
+2025-04-23 19:36:52,540 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:36:52,559 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:36:52,561 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:36:52,605 - telegram_bot - INFO - Message sent to Telegram: ⚠️ Error
+
+Error opening position: 'numpy.float64' ...
+2025-04-23 19:37:27,053 - config - INFO - Configuration validated successfully
+2025-04-23 19:37:27,147 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437047067&recvWindow=60000&signature=bad346c1ac2bdb95fca8efb0c2bf1e806377ecac4baa8a9ffeaa7cb73b8f2d5f 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:37:27,147 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437047067&recvWindow=60000&signature=bad346c1ac2bdb95fca8efb0c2bf1e806377ecac4baa8a9ffeaa7cb73b8f2d5f 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:37:27,147 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:37:27,147 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:37:27,147 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:37:27,148 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:37:27,148 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:37:27,148 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:37:27,149 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:37:27,149 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:37:27,149 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:37:27,149 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:37:27,150 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:37:27,168 - risk_management - INFO - AI confidence calculated: 0.87
+2025-04-23 19:37:27,168 - trading_bot - ERROR - Error checking entry conditions: 'numpy.float64' object has no attribute 'iloc'
+2025-04-23 19:37:27,790 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:37:27,810 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:37:27,810 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:37:27,840 - telegram_bot - INFO - Message sent to Telegram: ⚠️ Error
+
+Error opening position: 'numpy.float64' ...
+2025-04-23 19:38:03,796 - config - INFO - Configuration validated successfully
+2025-04-23 19:38:03,865 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437083807&recvWindow=60000&signature=6bbf75d6e66fe4c342f8fdfa4ccd044909ab0a6348e20e617095a2e2481af54f 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:38:03,865 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437083807&recvWindow=60000&signature=6bbf75d6e66fe4c342f8fdfa4ccd044909ab0a6348e20e617095a2e2481af54f 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:38:03,865 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:38:03,865 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:38:03,866 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:38:03,866 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:38:03,866 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:38:03,867 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:38:03,867 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:38:03,867 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:38:03,868 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:38:03,868 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:38:03,868 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:38:03,887 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 19:38:03,887 - trading_bot - ERROR - Error checking entry conditions: 'numpy.float64' object has no attribute 'iloc'
+2025-04-23 19:38:04,517 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:38:04,543 - telegram_bot - INFO - Message sent to Telegram: ⚠️ Error
+
+Error opening position: 'numpy.float64' ...
+2025-04-23 19:38:04,575 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:38:04,575 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:38:39,148 - config - INFO - Configuration validated successfully
+2025-04-23 19:38:39,256 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437119163&recvWindow=60000&signature=d8d5c465e21f4f982809452fcd60cd9eb9b45ccde749afb0135f9ad252a1b0e0 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:38:39,257 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437119163&recvWindow=60000&signature=d8d5c465e21f4f982809452fcd60cd9eb9b45ccde749afb0135f9ad252a1b0e0 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:38:39,257 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:38:39,257 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:38:39,257 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:38:39,260 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:38:39,261 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:38:39,261 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:38:39,261 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:38:39,261 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:38:39,271 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:38:39,272 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:38:39,272 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:38:39,291 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 19:38:39,906 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:38:39,930 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:38:39,931 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:38:55,324 - config - INFO - Configuration validated successfully
+2025-04-23 19:38:55,419 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437135335&recvWindow=60000&signature=2b93b3e1158e85fa10224e12468ac7fc1c38d02a434c160097a4abecab984c41 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:38:55,420 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437135335&recvWindow=60000&signature=2b93b3e1158e85fa10224e12468ac7fc1c38d02a434c160097a4abecab984c41 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:38:55,420 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:38:55,420 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:38:55,420 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:38:55,421 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:38:55,421 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:38:55,421 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:38:55,422 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:38:55,422 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:38:55,422 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:38:55,423 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:38:55,423 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:38:55,437 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 19:38:56,066 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:38:56,089 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:38:56,089 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:39:25,438 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:39:25,438 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:39:25,449 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 19:39:55,449 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:39:55,449 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:39:55,461 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 19:40:24,090 - config - INFO - Configuration validated successfully
+2025-04-23 19:40:24,170 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437224101&recvWindow=60000&signature=4eee9a08c711e7d6e08cf8df1987a67497ff99c62dddb47ac8419ead9aeb4298 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:40:24,172 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437224101&recvWindow=60000&signature=4eee9a08c711e7d6e08cf8df1987a67497ff99c62dddb47ac8419ead9aeb4298 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:40:24,173 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:40:24,174 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:40:24,174 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:40:24,174 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:40:24,175 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:40:24,175 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:40:24,175 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:40:24,175 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:40:24,176 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:40:24,176 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:40:24,187 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:40:24,203 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 19:40:24,825 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:40:24,853 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:40:24,853 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:40:37,180 - config - INFO - Configuration validated successfully
+2025-04-23 19:40:37,272 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437237199&recvWindow=60000&signature=b55d5fb10654d7fdaa45bcf0f5e1690d9abcdff41e3602550da5a98a2ca9f3fc 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:40:37,273 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437237199&recvWindow=60000&signature=b55d5fb10654d7fdaa45bcf0f5e1690d9abcdff41e3602550da5a98a2ca9f3fc 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:40:37,273 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:40:37,273 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:40:37,274 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:40:37,274 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:40:37,274 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:40:37,275 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:40:37,275 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:40:37,275 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:40:37,275 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:40:37,276 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:40:37,277 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:40:37,300 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 19:40:37,930 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:40:37,959 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:40:37,959 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:40:49,325 - config - INFO - Configuration validated successfully
+2025-04-23 19:40:49,375 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437249343&recvWindow=60000&signature=4fc06597ff223840fbc804f2f4376df3084a5d4edfb36a6c22f6573cc6ee6500 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:40:49,376 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437249343&recvWindow=60000&signature=4fc06597ff223840fbc804f2f4376df3084a5d4edfb36a6c22f6573cc6ee6500 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:40:49,376 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:40:49,376 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:40:49,376 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:40:49,378 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:40:49,379 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:40:49,379 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:40:49,380 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:40:49,380 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:40:49,384 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:40:49,384 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:40:49,399 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:40:49,433 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-23 19:40:50,032 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:40:50,032 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:40:50,053 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:41:09,549 - config - INFO - Configuration validated successfully
+2025-04-23 19:41:09,640 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437269559&recvWindow=60000&signature=3ba0a342b638435f980a0f885e6c97f1b2242877f67fa115a9f35ba03930417d 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:41:09,640 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437269559&recvWindow=60000&signature=3ba0a342b638435f980a0f885e6c97f1b2242877f67fa115a9f35ba03930417d 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:41:09,640 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:41:09,641 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:41:09,641 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:41:09,641 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:41:09,641 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:41:09,642 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:41:09,642 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:41:09,642 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:41:09,642 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:41:09,643 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:41:09,643 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:41:09,654 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 19:41:10,284 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:41:10,284 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:41:10,312 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:41:39,657 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:41:39,657 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:41:39,668 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-23 19:42:09,668 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:42:09,669 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:42:09,679 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 19:42:39,680 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:42:39,680 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:42:39,690 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 19:43:09,691 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:43:09,691 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:43:09,702 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-23 19:43:39,703 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:43:39,703 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:43:39,714 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 19:44:09,714 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:44:09,714 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:44:09,725 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 19:44:39,726 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:44:39,727 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:44:39,739 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 19:45:11,752 - config - INFO - Configuration validated successfully
+2025-04-23 19:45:11,819 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437511765&recvWindow=60000&signature=2184903bc5c5f76f2ce1bc8099a90591111a9e5efae68b4aea4d60a712f150d6 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:45:11,819 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437511765&recvWindow=60000&signature=2184903bc5c5f76f2ce1bc8099a90591111a9e5efae68b4aea4d60a712f150d6 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:45:11,819 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:45:11,820 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:45:11,820 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:45:11,820 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:45:11,821 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:45:11,821 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:45:11,821 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:45:11,821 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:45:11,822 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:45:11,822 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:45:11,828 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:45:11,835 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 19:45:12,464 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:45:12,488 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:45:12,488 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:45:41,837 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:45:41,837 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:45:41,848 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 19:46:11,849 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:46:11,849 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:46:11,859 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 19:46:41,860 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:46:41,860 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:46:41,872 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 19:47:11,872 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:47:11,872 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:47:11,883 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 19:47:41,883 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:47:41,884 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:47:41,893 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 19:48:11,894 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:48:11,894 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:48:11,904 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 19:48:41,906 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:48:41,906 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:48:41,918 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 19:49:06,269 - config - INFO - Configuration validated successfully
+2025-04-23 19:49:06,346 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437746281&recvWindow=60000&signature=85ec23594d782953e637018ba253b437cd31e65175921f5c4d530378a17cffef 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:49:06,347 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437746281&recvWindow=60000&signature=85ec23594d782953e637018ba253b437cd31e65175921f5c4d530378a17cffef 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:49:06,347 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:49:06,347 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:49:06,347 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:49:06,348 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:49:06,348 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:49:06,348 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:49:06,348 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:49:06,348 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:49:06,349 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:49:06,349 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:49:06,349 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:49:06,363 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-23 19:49:07,005 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:49:07,005 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:49:07,023 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:49:31,115 - config - INFO - Configuration validated successfully
+2025-04-23 19:49:31,183 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437771130&recvWindow=60000&signature=cbc735011ef87f1b6114abc9fb373a6c6ae09f3d9e0ac03b0bd860776abb1918 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:49:31,184 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1745437771130&recvWindow=60000&signature=cbc735011ef87f1b6114abc9fb373a6c6ae09f3d9e0ac03b0bd860776abb1918 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2025-04-23 19:49:31,184 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:49:31,184 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:49:31,184 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:49:31,188 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:49:31,189 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:49:31,189 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:49:31,189 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:49:31,190 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:49:31,190 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:49:31,190 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:49:31,190 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:49:31,223 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-23 19:49:31,860 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:49:31,883 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:49:31,884 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:50:01,224 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:50:01,224 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:50:01,234 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 19:50:31,234 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:50:31,234 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:50:31,246 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 19:51:01,246 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:51:01,247 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:51:01,256 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-23 19:51:20,590 - config - INFO - Configuration validated successfully
+2025-04-23 19:51:20,601 - exchange_api - ERROR - Failed to connect to exchange: binance GET http://public.proxy1.proxyfix.xyz:47589https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745437880601%26recvWindow%3D60000%26signature%3D90483ad6b806f2cca7dafa9f7f76eb2923310b6a81ad46f906c33299ac920feb
+2025-04-23 19:51:20,601 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET http://public.proxy1.proxyfix.xyz:47589https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745437880601%26recvWindow%3D60000%26signature%3D90483ad6b806f2cca7dafa9f7f76eb2923310b6a81ad46f906c33299ac920feb
+2025-04-23 19:51:20,601 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:51:20,602 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:51:20,602 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:51:20,602 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:51:20,605 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:51:20,605 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:51:20,605 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:51:20,605 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:51:20,605 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:51:20,605 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:51:20,606 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:51:20,629 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 19:51:21,245 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:51:21,268 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:51:21,268 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:51:46,672 - config - INFO - Configuration validated successfully
+2025-04-23 19:51:46,685 - exchange_api - ERROR - Failed to connect to exchange: binance GET http://public.proxy1.proxyfix.xyz:47589https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745437906684%26recvWindow%3D60000%26signature%3D8cd82c5eb40da187e1e8e44f525ea0bad55dea4ce3a17eacd6b9cd979177fa55
+2025-04-23 19:51:46,685 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET http://public.proxy1.proxyfix.xyz:47589https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745437906684%26recvWindow%3D60000%26signature%3D8cd82c5eb40da187e1e8e44f525ea0bad55dea4ce3a17eacd6b9cd979177fa55
+2025-04-23 19:51:46,685 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:51:46,686 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:51:46,686 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 19:51:46,686 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:51:46,689 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:51:46,690 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:51:46,691 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:51:46,692 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:51:46,693 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:51:46,693 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:51:46,694 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:51:46,713 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 19:51:47,322 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:51:47,342 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:51:47,342 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:52:00,032 - config - INFO - Configuration validated successfully
+2025-04-23 19:52:00,040 - exchange_api - ERROR - Failed to connect to exchange: kucoin GET http://public.proxy1.proxyfix.xyz:47589https://api.kucoin.com/api/v3/currencies
+2025-04-23 19:52:00,040 - exchange_api - WARNING - Falling back to simulation mode due to error: kucoin GET http://public.proxy1.proxyfix.xyz:47589https://api.kucoin.com/api/v3/currencies
+2025-04-23 19:52:00,040 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:52:00,040 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:52:00,040 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-23 19:52:00,041 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:52:00,041 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:52:00,041 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:52:00,041 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:52:00,041 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:52:00,041 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:52:00,042 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:52:00,049 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:52:00,059 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 19:52:00,704 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:52:00,722 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:52:00,723 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:52:12,390 - config - INFO - Configuration validated successfully
+2025-04-23 19:52:19,442 - config - INFO - Configuration validated successfully
+2025-04-23 19:52:19,449 - exchange_api - ERROR - Failed to connect to exchange: kucoin GET http://3.91.255.252:80https://api.kucoin.com/api/v3/currencies
+2025-04-23 19:52:19,450 - exchange_api - WARNING - Falling back to simulation mode due to error: kucoin GET http://3.91.255.252:80https://api.kucoin.com/api/v3/currencies
+2025-04-23 19:52:19,450 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 19:52:19,450 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:52:19,451 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-23 19:52:19,451 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:52:19,451 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:52:19,451 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:52:19,451 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:52:19,452 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:52:19,452 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:52:19,453 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:52:19,453 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:52:19,465 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 19:52:20,105 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:52:20,105 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:52:20,126 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:52:49,466 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:52:49,466 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:52:49,476 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-23 19:52:57,739 - config - INFO - Configuration validated successfully
+2025-04-23 19:52:57,740 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-23 19:52:57,740 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:52:57,740 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-23 19:52:57,740 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:52:57,740 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:52:57,741 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:52:57,741 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:52:57,741 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:52:57,743 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:52:57,744 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:52:57,744 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:52:57,759 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 19:52:58,398 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:52:58,398 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:52:58,421 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:53:08,181 - config - INFO - Configuration validated successfully
+2025-04-23 19:53:08,182 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-23 19:53:08,183 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 19:53:08,183 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-23 19:53:08,183 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 19:53:08,183 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 19:53:08,184 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:53:08,184 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:53:08,184 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 19:53:08,186 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:53:08,187 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 19:53:08,187 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:53:08,201 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 19:53:08,838 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 19:53:08,839 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 19:53:08,860 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 19:53:38,205 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:53:38,205 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:53:38,223 - risk_management - INFO - AI confidence calculated: 0.87
+2025-04-23 19:54:08,224 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:54:08,224 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:54:08,233 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 19:54:38,234 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:54:38,235 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:54:38,247 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-23 19:55:08,250 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:55:08,251 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:55:08,262 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-23 19:55:38,263 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:55:38,263 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:55:38,275 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 19:56:08,275 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:56:08,275 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:56:08,287 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 19:56:38,288 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:56:38,288 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:56:38,296 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 19:57:08,297 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:57:08,297 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:57:08,307 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-23 19:57:38,307 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:57:38,309 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:57:38,321 - risk_management - INFO - AI confidence calculated: 0.87
+2025-04-23 19:58:08,323 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:58:08,323 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:58:08,333 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 19:58:38,334 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:58:38,335 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:58:38,345 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 19:59:08,345 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:59:08,348 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:59:08,359 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 19:59:38,359 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 19:59:38,360 - utils - INFO - Balance updated: 10000.0
+2025-04-23 19:59:38,370 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-23 20:00:08,370 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:00:08,370 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:00:08,381 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-23 20:00:38,382 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:00:38,382 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:00:38,394 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 20:01:08,394 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:01:08,395 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:01:08,406 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 20:01:38,407 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:01:38,407 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:01:38,420 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 20:02:08,420 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:02:08,421 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:02:08,433 - risk_management - INFO - AI confidence calculated: 0.87
+2025-04-23 20:02:38,433 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:02:38,433 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:02:38,452 - risk_management - INFO - AI confidence calculated: 0.79
+2025-04-23 20:02:59,513 - config - INFO - Configuration validated successfully
+2025-04-23 20:02:59,514 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-23 20:02:59,514 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:02:59,514 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-23 20:02:59,515 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:02:59,515 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:02:59,516 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:02:59,516 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:02:59,518 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:02:59,521 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:02:59,522 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:02:59,522 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:02:59,538 - risk_management - INFO - AI confidence calculated: 0.87
+2025-04-23 20:03:13,930 - config - INFO - Configuration validated successfully
+2025-04-23 20:03:13,930 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-23 20:03:13,930 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:03:13,931 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 20:03:13,931 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:03:13,931 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:03:13,931 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:03:13,931 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:03:13,932 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:03:13,934 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:03:13,934 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:03:13,935 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:03:13,956 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 20:03:21,453 - config - INFO - Configuration validated successfully
+2025-04-23 20:03:21,454 - exchange_api - INFO - Using proxy: https://185.225.204.5:3128
+2025-04-23 20:03:21,469 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://185.225.204.5:3128https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745438601468%26recvWindow%3D60000%26signature%3D2efb7b863dd52befaf7d45d2b1e7aa733fbe7fc3520de70ce2171bb5fe04c933
+2025-04-23 20:03:21,469 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://185.225.204.5:3128https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745438601468%26recvWindow%3D60000%26signature%3D2efb7b863dd52befaf7d45d2b1e7aa733fbe7fc3520de70ce2171bb5fe04c933
+2025-04-23 20:03:21,469 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 20:03:21,469 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:03:21,469 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 20:03:21,470 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:03:21,470 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:03:21,470 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:03:21,470 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:03:21,470 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:03:21,471 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:03:21,471 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:03:21,471 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:03:21,490 - risk_management - INFO - AI confidence calculated: 0.88
+2025-04-23 20:03:46,882 - config - INFO - Configuration validated successfully
+2025-04-23 20:03:46,882 - exchange_api - INFO - Using proxy: https://185.225.204.5:3128
+2025-04-23 20:03:46,893 - exchange_api - ERROR - Failed to connect to exchange: binance GET https://185.225.204.5:3128https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745438626892%26recvWindow%3D60000%26signature%3Da0e42e151b6b4da283288fe9fa74da510a700d21c8b640a18d14664bee535067
+2025-04-23 20:03:46,893 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET https://185.225.204.5:3128https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745438626892%26recvWindow%3D60000%26signature%3Da0e42e151b6b4da283288fe9fa74da510a700d21c8b640a18d14664bee535067
+2025-04-23 20:03:46,893 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 20:03:46,893 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:03:46,894 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 20:03:46,894 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:03:46,894 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:03:46,894 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:03:46,894 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:03:46,894 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:03:46,895 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:03:46,895 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:03:46,896 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:03:46,911 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 20:03:56,166 - config - INFO - Configuration validated successfully
+2025-04-23 20:03:56,167 - exchange_api - INFO - Using proxy: http://185.225.204.5:3128
+2025-04-23 20:03:56,180 - exchange_api - ERROR - Failed to connect to exchange: binance GET http://185.225.204.5:3128https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745438636180%26recvWindow%3D60000%26signature%3D2c4c4f930305b9ca8fb1d0a68bcaa81e0730ab7e639fd350bd2c5eed1bf64ba2
+2025-04-23 20:03:56,181 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET http://185.225.204.5:3128https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745438636180%26recvWindow%3D60000%26signature%3D2c4c4f930305b9ca8fb1d0a68bcaa81e0730ab7e639fd350bd2c5eed1bf64ba2
+2025-04-23 20:03:56,181 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 20:03:56,181 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:03:56,181 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 20:03:56,182 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:03:56,182 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:03:56,182 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:03:56,182 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:03:56,182 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:03:56,183 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:03:56,183 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:03:56,184 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:03:56,206 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 20:04:13,480 - config - INFO - Configuration validated successfully
+2025-04-23 20:04:13,480 - exchange_api - INFO - Using proxy: 185.225.204.5:3128
+2025-04-23 20:04:13,498 - exchange_api - ERROR - Failed to connect to exchange: binance GET 185.225.204.5:3128https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745438653497%26recvWindow%3D60000%26signature%3D85636258320008e4d686dbb947c743d6111b8d5319b1b6aaeae04df5ebd0c6a7
+2025-04-23 20:04:13,499 - exchange_api - WARNING - Falling back to simulation mode due to error: binance GET 185.225.204.5:3128https%3A%2F%2Fapi.binance.com%2Fsapi%2Fv1%2Fcapital%2Fconfig%2Fgetall%3Ftimestamp%3D1745438653497%26recvWindow%3D60000%26signature%3D85636258320008e4d686dbb947c743d6111b8d5319b1b6aaeae04df5ebd0c6a7
+2025-04-23 20:04:13,499 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 20:04:13,499 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:04:13,499 - trading_bot - INFO - Trading bot initialized for BTC/USDT on binance
+2025-04-23 20:04:13,499 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:04:13,499 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:04:13,500 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:04:13,500 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:04:13,500 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:04:13,500 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:04:13,501 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:04:13,501 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:04:13,519 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-23 20:04:28,923 - config - INFO - Configuration validated successfully
+2025-04-23 20:04:28,925 - exchange_api - INFO - Using proxy: 185.225.204.5:3128
+2025-04-23 20:04:28,940 - exchange_api - ERROR - Failed to connect to exchange: kucoin GET 185.225.204.5:3128https://api.kucoin.com/api/v3/currencies
+2025-04-23 20:04:28,941 - exchange_api - WARNING - Falling back to simulation mode due to error: kucoin GET 185.225.204.5:3128https://api.kucoin.com/api/v3/currencies
+2025-04-23 20:04:28,941 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 20:04:28,941 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:04:28,941 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-23 20:04:28,942 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:04:28,948 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:04:28,949 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:04:28,949 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:04:28,949 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:04:28,949 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:04:28,950 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:04:28,959 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:04:28,979 - risk_management - INFO - AI confidence calculated: 0.87
+2025-04-23 20:04:38,222 - config - INFO - Configuration validated successfully
+2025-04-23 20:04:38,222 - exchange_api - INFO - Using proxy: 185.225.204.5:3128
+2025-04-23 20:04:38,231 - exchange_api - ERROR - Failed to connect to exchange: kucoin GET 185.225.204.5:3128https://api.kucoin.com/api/v3/currencies
+2025-04-23 20:04:38,232 - exchange_api - WARNING - Falling back to simulation mode due to error: kucoin GET 185.225.204.5:3128https://api.kucoin.com/api/v3/currencies
+2025-04-23 20:04:38,232 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-23 20:04:38,232 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:04:38,232 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-23 20:04:38,232 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:04:38,233 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:04:38,233 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:04:38,233 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:04:38,233 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:04:38,235 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:04:38,236 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:04:38,236 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:04:38,257 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 20:04:59,451 - config - INFO - Configuration validated successfully
+2025-04-23 20:04:59,451 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-23 20:04:59,452 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:04:59,452 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-23 20:04:59,452 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:04:59,452 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:04:59,453 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:04:59,453 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:04:59,453 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:04:59,456 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:04:59,457 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:04:59,456 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:04:59,486 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 20:05:29,486 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:05:29,486 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:05:29,495 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 20:05:59,496 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:05:59,496 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:05:59,505 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-23 20:06:29,506 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:06:29,506 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:06:29,516 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 20:06:59,517 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:06:59,517 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:06:59,528 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-23 20:07:08,102 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff5bba9e150>, 'Connection to 185.225.204.5 timed out. (connect timeout=None)')))
+2025-04-23 20:07:08,102 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 20:07:08,102 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff5bba9d2d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=None)')))
+2025-04-23 20:07:08,103 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 20:07:08,103 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 20:07:29,528 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:07:29,528 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:07:29,539 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 20:07:59,539 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:07:59,540 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:07:59,556 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 20:08:29,557 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:08:29,557 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:08:29,569 - risk_management - INFO - AI confidence calculated: 0.87
+2025-04-23 20:08:59,569 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:08:59,571 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:08:59,580 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 20:09:19,174 - telegram_bot - ERROR - Error in Telegram update loop: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff5bbaa71d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=None)')))
+2025-04-23 20:09:29,581 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:09:29,582 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:09:29,593 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 20:09:52,673 - config - INFO - Configuration validated successfully
+2025-04-23 20:09:52,673 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-23 20:09:52,673 - telegram_bot - INFO - Telegram bot initialized
+2025-04-23 20:09:52,674 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-23 20:09:52,674 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-23 20:09:52,674 - telegram_bot - INFO - Telegram bot thread started
+2025-04-23 20:09:52,674 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:09:52,675 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:09:52,675 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-23 20:09:52,676 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:09:52,677 - trading_bot - INFO - Trading bot started successfully
+2025-04-23 20:09:52,679 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:09:52,692 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 20:10:22,692 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:10:22,693 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:10:22,703 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 20:10:25,551 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)'))))
+2025-04-23 20:10:25,551 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-23 20:10:52,704 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:10:52,704 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:10:52,714 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 20:11:22,714 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:11:22,714 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:11:22,724 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 20:11:52,725 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:11:52,725 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:11:52,745 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 20:12:03,014 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff5bba92f10>, 'Connection to 185.225.204.5 timed out. (connect timeout=None)')))
+2025-04-23 20:12:03,014 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-23 20:12:03,014 - app - INFO - Trading bot started automatically on application startup
+2025-04-23 20:12:22,752 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:12:22,753 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:12:22,764 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-23 20:12:35,782 - telegram_bot - ERROR - Error in Telegram update loop: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff5bbaaded0>, 'Connection to 185.225.204.5 timed out. (connect timeout=None)')))
+2025-04-23 20:12:52,766 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:12:52,766 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:12:52,779 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-23 20:13:22,779 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:13:22,779 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:13:22,790 - risk_management - INFO - AI confidence calculated: 0.79
+2025-04-23 20:13:52,791 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:13:52,793 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:13:52,802 - risk_management - INFO - AI confidence calculated: 0.79
+2025-04-23 20:14:22,803 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:14:22,804 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:14:22,814 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 20:14:46,854 - telegram_bot - ERROR - Error in Telegram update loop: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff5bbaac290>, 'Connection to 185.225.204.5 timed out. (connect timeout=None)')))
+2025-04-23 20:14:52,815 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:14:52,817 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:14:52,837 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 20:15:22,838 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:15:22,838 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:15:22,849 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-23 20:15:52,850 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:15:52,850 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:15:52,863 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-23 20:16:22,865 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:16:22,865 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:16:22,875 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-23 20:16:52,876 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:16:52,877 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:16:52,887 - risk_management - INFO - AI confidence calculated: 0.79
+2025-04-23 20:16:57,926 - telegram_bot - ERROR - Error in Telegram update loop: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff5bba93190>, 'Connection to 185.225.204.5 timed out. (connect timeout=None)')))
+2025-04-23 20:17:22,888 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-23 20:17:22,889 - utils - INFO - Balance updated: 10000.0
+2025-04-23 20:17:22,900 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-24 02:53:45,121 - config - INFO - Configuration validated successfully
+2025-04-24 02:53:45,122 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:53:45,122 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:53:45,123 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:53:45,123 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:53:45,123 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:53:45,124 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:53:45,124 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:53:45,124 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:53:45,126 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:53:45,126 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:53:45,127 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:53:45,149 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 02:54:15,150 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:54:15,150 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:54:15,160 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 02:54:45,161 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:54:45,161 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:54:45,172 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 02:55:15,173 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:55:15,173 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:55:15,184 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-24 02:55:29,079 - config - INFO - Configuration validated successfully
+2025-04-24 02:55:29,079 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:55:29,079 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:55:29,079 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:55:29,081 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:55:29,081 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:55:29,081 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:55:29,081 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:55:29,081 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:55:29,082 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:55:29,082 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:55:29,082 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:55:29,099 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 02:55:42,180 - config - INFO - Configuration validated successfully
+2025-04-24 02:55:42,181 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:55:42,181 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:55:42,181 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:55:42,183 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:55:42,183 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:55:42,184 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:55:42,184 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:55:42,184 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:55:42,185 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:55:42,185 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:55:42,185 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:55:42,209 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-24 02:55:58,779 - config - INFO - Configuration validated successfully
+2025-04-24 02:55:58,780 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:55:58,780 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:55:58,780 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:55:58,783 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:55:58,784 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:55:58,784 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:55:58,784 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:55:58,786 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:55:58,787 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:55:58,787 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:55:58,787 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:55:58,801 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-24 02:56:27,846 - config - INFO - Configuration validated successfully
+2025-04-24 02:56:27,846 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:56:27,846 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:56:27,846 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:56:27,848 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:56:27,852 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:56:27,852 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:56:27,852 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:56:27,852 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:56:27,853 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:56:27,863 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:56:27,863 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:56:27,876 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-24 02:57:03,261 - config - INFO - Configuration validated successfully
+2025-04-24 02:57:03,261 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:57:03,261 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:57:03,261 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:57:03,263 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:57:03,266 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:57:03,266 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:57:03,266 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:57:03,267 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:57:03,267 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:57:03,267 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:57:03,267 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:57:03,282 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-24 02:57:17,419 - config - INFO - Configuration validated successfully
+2025-04-24 02:57:17,420 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:57:17,420 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:57:17,420 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:57:17,422 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:57:17,422 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:57:17,422 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:57:17,422 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:57:17,422 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:57:17,423 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:57:17,424 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:57:17,424 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:57:17,439 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 02:57:47,440 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:57:47,441 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:57:47,454 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-24 02:57:57,731 - config - INFO - Configuration validated successfully
+2025-04-24 02:57:57,732 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:57:57,732 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:57:57,732 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:57:57,734 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:57:57,739 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:57:57,739 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:57:57,739 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:57:57,739 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:57:57,740 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:57:57,740 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:57:57,740 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:57:57,760 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 02:58:10,893 - config - INFO - Configuration validated successfully
+2025-04-24 02:58:10,893 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:58:10,894 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:58:10,894 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:58:10,894 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:58:10,894 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:58:10,895 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:58:10,895 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:58:10,895 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:58:10,895 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:58:10,896 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:58:10,896 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:58:10,911 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-24 02:58:20,920 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc6495d10>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:58:20,920 - telegram_bot - INFO - Attempting to send message without proxy
+2025-04-24 02:58:20,920 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc800aa90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:58:20,922 - telegram_bot - INFO - Attempting to send message without proxy
+2025-04-24 02:58:30,932 - telegram_bot - ERROR - Error sending message without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a8b90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:58:30,933 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-24 02:58:30,933 - app - INFO - Trading bot started automatically on application startup
+2025-04-24 02:58:30,935 - telegram_bot - ERROR - Error sending message without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64aabd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:58:30,935 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-24 02:58:40,912 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:58:40,912 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:58:40,923 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 02:58:50,295 - config - INFO - Configuration validated successfully
+2025-04-24 02:58:50,295 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 02:58:50,295 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 02:58:50,301 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 02:58:50,303 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 02:58:50,303 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 02:58:50,304 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:58:50,304 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:58:50,304 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 02:58:50,304 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:58:50,306 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 02:58:50,306 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:58:50,320 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-24 02:59:00,335 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc6491fd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:59:00,336 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc8000750>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:59:00,336 - telegram_bot - INFO - Attempting to send message without proxy
+2025-04-24 02:59:00,336 - telegram_bot - INFO - Attempting to send message without proxy
+2025-04-24 02:59:10,347 - telegram_bot - ERROR - Error sending message without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc6493f90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:59:10,348 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-24 02:59:10,348 - app - INFO - Trading bot started automatically on application startup
+2025-04-24 02:59:10,349 - telegram_bot - ERROR - Error sending message without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a1c90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:59:10,349 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-24 02:59:20,321 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:59:20,322 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:59:20,331 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-24 02:59:20,361 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a36d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:59:20,362 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 02:59:30,374 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a8b90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:59:41,388 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64aadd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 02:59:41,390 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 02:59:50,332 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 02:59:50,332 - utils - INFO - Balance updated: 10000.0
+2025-04-24 02:59:50,342 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 02:59:51,402 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64c8d50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:00:02,413 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc648a190>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:00:02,414 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:00:12,426 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc648ad10>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:00:20,343 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:00:20,343 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:00:20,352 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 03:00:23,437 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a1b50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:00:23,439 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:00:33,453 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc6493010>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:00:44,465 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64c81d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:00:44,465 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:00:50,353 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:00:50,353 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:00:50,364 - risk_management - INFO - AI confidence calculated: 0.87
+2025-04-24 03:00:54,477 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a0c50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:01:05,488 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64930d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:01:05,489 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:01:15,503 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc648b990>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:01:20,365 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:01:20,365 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:01:20,379 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 03:01:26,515 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a8d90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:01:26,516 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:01:36,528 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64c8ad0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:01:47,541 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc646aa10>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:01:47,541 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:01:50,381 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:01:50,381 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:01:50,391 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 03:01:57,553 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc6488d50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:02:08,566 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64c99d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:02:08,566 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:02:18,578 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a2910>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:02:20,392 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:02:20,392 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:02:20,407 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-24 03:02:29,589 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a2f50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:02:29,590 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:02:39,601 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64d8950>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:02:50,407 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:02:50,407 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:02:50,417 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-24 03:02:50,616 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a23d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:02:50,616 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:03:00,628 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc648afd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:03:11,641 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc648af90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:03:11,641 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:03:20,417 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:03:20,417 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:03:20,427 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 03:03:21,652 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64abe90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:03:32,663 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a1090>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:03:32,666 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:03:42,680 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64cbf90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:03:50,428 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:03:50,428 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:03:50,439 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-24 03:03:53,691 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64c9910>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:03:53,692 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:04:03,704 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc6493450>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:04:14,727 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64a2110>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:04:14,731 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:04:20,449 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:04:20,450 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:04:20,460 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-24 03:04:24,747 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64d9890>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:04:35,761 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64dafd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:04:35,761 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:04:45,773 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc8002ad0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:04:50,461 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:04:50,461 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:04:50,469 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 03:04:56,785 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc6490510>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:04:56,786 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:05:06,797 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc648b350>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:05:17,810 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7cc64d9490>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:05:17,810 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:05:20,472 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:05:20,472 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:05:20,482 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-24 03:05:31,280 - config - INFO - Configuration validated successfully
+2025-04-24 03:05:31,280 - exchange_api - INFO - 🔄 SIMULATION MODE ACTIVE - Trading with real strategy but simulated execution
+2025-04-24 03:05:31,280 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 03:05:31,281 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 03:05:31,281 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 03:05:31,281 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 03:05:31,281 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:05:31,282 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:05:31,282 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 03:05:31,282 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:05:31,283 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 03:05:31,283 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:05:31,307 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-24 03:05:41,323 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6f6200bad0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:05:41,323 - telegram_bot - INFO - Attempting to send message without proxy
+2025-04-24 03:05:41,325 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6f60496990>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:05:41,325 - telegram_bot - INFO - Attempting to send message without proxy
+2025-04-24 03:05:51,335 - telegram_bot - ERROR - Error sending message without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6f604a8090>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:05:51,336 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-24 03:05:51,338 - telegram_bot - ERROR - Error sending message without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6f604aa350>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:05:51,338 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-24 03:05:51,338 - app - INFO - Trading bot started automatically on application startup
+2025-04-24 03:06:01,307 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:06:01,307 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:06:01,317 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-24 03:06:01,348 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6f62009790>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:06:01,348 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:06:11,360 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6f621f7150>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:06:25,786 - config - INFO - Configuration validated successfully
+2025-04-24 03:06:25,786 - exchange_api - INFO - Using proxy from environment variables: http://185.225.204.5:3128
+2025-04-24 03:06:25,794 - exchange_api - ERROR - Failed to connect to exchange: kucoin GET http://185.225.204.5:3128https://api.kucoin.com/api/v3/currencies
+2025-04-24 03:06:25,794 - exchange_api - WARNING - Falling back to simulation mode due to error: kucoin GET http://185.225.204.5:3128https://api.kucoin.com/api/v3/currencies
+2025-04-24 03:06:25,794 - exchange_api - INFO - SIMULATION MODE ACTIVE - Using simulated market data
+2025-04-24 03:06:25,794 - telegram_bot - INFO - Telegram bot initialized
+2025-04-24 03:06:25,794 - trading_bot - INFO - Trading bot initialized for BTC/USDT on kucoin
+2025-04-24 03:06:25,795 - telegram_bot - INFO - Starting Telegram bot...
+2025-04-24 03:06:25,796 - telegram_bot - INFO - Telegram bot thread started
+2025-04-24 03:06:25,796 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:06:25,796 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:06:25,796 - trading_bot - INFO - Initial balance: 10000.0 USDT
+2025-04-24 03:06:25,800 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:06:25,801 - trading_bot - INFO - Trading bot started successfully
+2025-04-24 03:06:25,802 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:06:25,820 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:06:35,810 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f517fe50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:06:35,810 - telegram_bot - INFO - Attempting to send message without proxy
+2025-04-24 03:06:35,813 - telegram_bot - ERROR - Error sending message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f5195b10>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:06:35,813 - telegram_bot - INFO - Attempting to send message without proxy
+2025-04-24 03:06:45,822 - telegram_bot - ERROR - Error sending message without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%F0%9F%A4%96+Trading+Bot+Started%0A%0AUse+%2Fhelp+to+see+available+commands&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b89d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:06:45,822 - telegram_bot - INFO - Message sent to Telegram: 🤖 Trading Bot Started
+
+Use /help to see available ...
+2025-04-24 03:06:45,825 - telegram_bot - ERROR - Error sending message without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/sendMessage?chat_id=742926278&text=%E2%9C%85+All+systems+checked.+Trading+live.+You+may+now+close+the+Replit+tab.&parse_mode=HTML (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51ba4d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:06:45,826 - telegram_bot - INFO - Message sent to Telegram: ✅ All systems checked. Trading live. You may now c...
+2025-04-24 03:06:45,826 - app - INFO - Trading bot started automatically on application startup
+2025-04-24 03:06:55,822 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:06:55,822 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:06:55,833 - risk_management - INFO - AI confidence calculated: 0.80
+2025-04-24 03:06:55,833 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b8550>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:06:55,834 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:07:05,845 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51a9ad0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:07:16,857 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c4410>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:07:16,858 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:07:25,834 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:07:25,834 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:07:25,842 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-24 03:07:26,870 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c6310>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:07:37,881 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c63d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:07:37,882 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:07:47,894 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f6efaa50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:07:55,842 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:07:55,843 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:07:55,854 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 03:07:58,906 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c5350>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:07:58,907 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:08:08,918 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51ab550>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:08:19,930 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51a9cd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:08:19,930 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:08:25,854 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:08:25,854 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:08:25,865 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 03:08:29,942 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b9250>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:08:40,954 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f410b879f50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:08:40,954 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:08:50,966 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c4510>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:08:55,866 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:08:55,866 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:08:55,875 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 03:09:01,977 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c5dd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:09:01,977 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:09:11,989 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d5690>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:09:23,002 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d7cd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:09:23,002 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:09:25,875 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:09:25,876 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:09:25,884 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-24 03:09:33,016 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c6110>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:09:44,028 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f5196750>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:09:44,028 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:09:54,040 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b8450>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:09:55,884 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:09:55,884 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:09:55,895 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:10:05,052 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51aa990>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:10:05,052 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:10:15,064 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d4d50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:10:25,895 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:10:25,897 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:10:25,908 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-24 03:10:26,077 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f517c590>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:10:26,077 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:10:36,089 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d6290>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:10:47,101 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b80d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:10:47,102 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:10:55,908 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:10:55,909 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:10:55,927 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-24 03:10:57,114 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bb950>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:11:08,129 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c6390>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:11:08,130 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:11:18,143 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bc590>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:11:25,928 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:11:25,929 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:11:25,939 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 03:11:29,154 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51ba350>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:11:29,155 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:11:39,166 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b8090>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:11:50,179 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d54d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:11:50,179 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:11:55,939 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:11:55,941 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:11:55,949 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 03:12:00,191 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bc790>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:12:11,204 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bd010>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:12:11,204 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:12:21,216 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f5196190>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:12:25,950 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:12:25,950 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:12:25,959 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:12:32,228 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f517f450>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:12:32,228 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:12:42,240 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c4850>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:12:53,254 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b8610>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:12:53,255 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:12:55,960 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:12:55,960 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:12:55,968 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 03:13:03,266 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e1150>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:13:14,277 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e3c50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:13:14,278 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:13:24,290 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b80d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:13:25,969 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:13:25,969 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:13:25,978 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:13:35,301 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b8610>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:13:35,302 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:13:52,581 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=10)")))
+2025-04-24 03:13:55,978 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:13:55,978 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:13:55,988 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:14:03,593 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51aafd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:14:03,594 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:14:13,606 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e2750>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:14:24,619 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51fdad0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:14:24,619 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:14:25,988 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:14:25,989 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:14:25,996 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 03:14:34,631 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f517fdd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:14:45,642 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e18d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:14:45,643 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:14:55,654 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c7610>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:14:55,997 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:14:55,997 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:14:56,006 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-24 03:15:06,668 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51ba3d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:15:06,669 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:15:16,680 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51fc910>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:15:26,007 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:15:26,007 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:15:26,016 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-24 03:15:27,692 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b8910>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:15:27,693 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:15:37,704 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bf090>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:15:48,716 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d4d90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:15:48,716 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:15:56,016 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:15:56,016 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:15:56,027 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:15:58,730 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e2410>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:16:09,742 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bb350>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:16:09,742 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:16:19,755 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51ffb50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:16:26,027 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:16:26,027 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:16:26,037 - risk_management - INFO - AI confidence calculated: 0.79
+2025-04-24 03:16:30,767 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51ff150>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:16:30,768 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:16:40,779 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e3e90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:16:51,791 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bfa90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:16:51,792 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:16:56,038 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:16:56,038 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:16:56,047 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 03:17:01,803 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bdad0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:17:12,829 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51a81d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:17:12,830 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:17:22,841 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51aa150>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:17:26,048 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:17:26,048 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:17:26,062 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:17:33,853 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bf8d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:17:33,855 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:17:43,867 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e3c90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:17:54,878 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51fcf50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:17:54,879 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:17:56,063 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:17:56,063 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:17:56,072 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 03:18:04,893 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d7ad0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:18:15,904 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d7a10>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:18:15,905 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:18:25,917 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51ff110>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:18:26,072 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:18:26,072 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:18:26,084 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 03:18:37,097 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=10)")))
+2025-04-24 03:18:37,097 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:18:47,109 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51aa6d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:18:56,084 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:18:56,085 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:18:56,093 - risk_management - INFO - AI confidence calculated: 0.88
+2025-04-24 03:18:58,122 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bf590>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:18:58,122 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:19:08,133 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d5bd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:19:19,147 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c61d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:19:19,147 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:19:26,094 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:19:26,094 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:19:26,107 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-24 03:19:29,159 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51a9490>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:19:40,171 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d5190>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:19:40,174 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:19:50,186 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bfcd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:19:56,114 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:19:56,114 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:19:56,124 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:20:01,199 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51fd850>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:20:01,200 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:20:11,385 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=10)")))
+2025-04-24 03:20:22,397 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51ff0d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:20:22,398 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:20:26,124 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:20:26,125 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:20:26,134 - risk_management - INFO - AI confidence calculated: 0.83
+2025-04-24 03:20:32,410 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e1410>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:20:44,613 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=10)")))
+2025-04-24 03:20:44,615 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:20:54,629 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bdb50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:20:56,134 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:20:56,134 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:20:56,143 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-24 03:21:05,641 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51ab110>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:21:05,641 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:21:15,653 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f6d10150>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:21:26,144 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:21:26,144 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:21:26,152 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:21:26,667 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bea10>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:21:26,667 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:21:36,678 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e2ad0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:21:47,690 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c6cd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:21:47,691 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:21:56,153 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:21:56,157 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:21:56,174 - risk_management - INFO - AI confidence calculated: 0.86
+2025-04-24 03:21:57,703 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51fd0d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:22:08,714 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51fdf50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:22:08,715 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:22:18,727 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c6a90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:22:26,176 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:22:26,177 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:22:26,188 - risk_management - INFO - AI confidence calculated: 0.87
+2025-04-24 03:22:29,739 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c60d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:22:29,739 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:22:39,750 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51d48d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:22:50,763 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51fed10>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:22:50,764 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:22:56,189 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:22:56,189 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:22:56,198 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:23:00,775 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f5195590>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:23:11,788 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b98d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:23:11,789 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:23:21,802 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bc990>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:23:26,199 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:23:26,199 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:23:26,207 - risk_management - INFO - AI confidence calculated: 0.84
+2025-04-24 03:23:32,813 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51bc550>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:23:32,814 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:23:42,825 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51b8a50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:23:55,013 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=10)")))
+2025-04-24 03:23:55,014 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:23:56,208 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:23:56,208 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:23:56,217 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:24:05,026 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51c5e50>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:24:16,038 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51fdad0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:24:16,039 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:24:26,050 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51e3fd0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:24:26,217 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:24:26,217 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:24:26,226 - risk_management - INFO - AI confidence calculated: 0.82
+2025-04-24 03:24:36,401 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectionResetError(104, 'Connection reset by peer')))
+2025-04-24 03:24:36,402 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:24:46,413 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f5205c90>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:24:56,232 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:24:56,233 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:24:56,257 - risk_management - INFO - AI confidence calculated: 0.81
+2025-04-24 03:24:57,427 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f52077d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:24:57,427 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:25:07,439 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51a82d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:25:18,451 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f52043d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:25:18,451 - telegram_bot - INFO - Attempting to get updates without proxy
+2025-04-24 03:25:26,262 - exchange_api - INFO - Simulated account balance: 10000.0 USDT
+2025-04-24 03:25:26,262 - utils - INFO - Balance updated: 10000.0
+2025-04-24 03:25:26,272 - risk_management - INFO - AI confidence calculated: 0.85
+2025-04-24 03:25:28,462 - telegram_bot - ERROR - Error getting updates without proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51fd150>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:25:39,473 - telegram_bot - WARNING - Error getting updates with proxy: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7989871718:AAFalIt6Lblx6to6rv6Fy2Inl8ogZ7XW1Ds/getUpdates?offset=0&timeout=30 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f51968d0>, 'Connection to 185.225.204.5 timed out. (connect timeout=10)')))
+2025-04-24 03:25:39,474 - telegram_bot - INFO - Attempting to get updates without proxy
